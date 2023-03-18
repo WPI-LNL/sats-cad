@@ -1,1 +1,1 @@
-# HACKA
+# Small Asset Tracking System (SATS)
