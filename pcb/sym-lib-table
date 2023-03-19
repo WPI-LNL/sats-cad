@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "CD40109BE")(type "KiCad")(uri "/Users/matthew/Dropbox/Matthew/Documents/LNL/SATS/sats-cad/pcb/Parts/CD40109BE/CD40109BE.kicad_sym")(options "")(descr ""))
   (lib (name "IRLZ14PBF")(type "KiCad")(uri "${KIPRJMOD}/Parts/IRLZ14PBF/IRLZ14PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "QuadRJ45")(type "KiCad")(uri "/Users/matthew/Downloads/ul_A00-432-262-450/KiCAD/QuadRJ45/QuadRJ45.kicad_sym")(options "")(descr ""))
 )
