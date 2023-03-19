@@ -1,2 +1,5 @@
 # Mac Things
 .DS_Store
+
+# Backup
+/pcb/SATS-backups
