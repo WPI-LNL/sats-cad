@@ -3,4 +3,5 @@
   (lib (name "IRLZ14PBF")(type "KiCad")(uri "${KIPRJMOD}/Parts/IRLZ14PBF/footprints.pretty")(options "")(descr ""))
   (lib (name "QuadRJ45")(type "KiCad")(uri "${KIPRJMOD}/Parts/A00-432-262-450/footprints.pretty")(options "")(descr ""))
   (lib (name "AudioJack")(type "KiCad")(uri "${KIPRJMOD}/Parts/AudioJack4/AudioJack4.pretty")(options "")(descr ""))
+  (lib (name "TerminalConn")(type "KiCad")(uri "${KIPRJMOD}/Parts/1862042")(options "")(descr ""))
 )

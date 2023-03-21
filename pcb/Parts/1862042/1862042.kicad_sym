@@ -1,0 +1,66 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "1862042" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -2.54527 3.18159 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "1862042" (id 1) (at -2.54715 -7.64144 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "PHOENIX_1862042" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "01/24/2018" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer recommendations" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "PHOENIX CONTACT" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "1862042_0_0"
+      (polyline
+        (pts (xy -2.54 0.0) (xy 0.0 0.0)) (stroke (width 0.762))
+      )
+      (polyline
+        (pts (xy -2.54 -2.54) (xy 0.0 -2.54)) (stroke (width 0.762))
+      )
+      (rectangle (start -2.54 -5.08) (end 2.54 2.54)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -7.62 0.0 0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 0.0 0) (length 5.08)
+        (name "1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -7.62 -2.54 0) (length 5.08)
+        (name "2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

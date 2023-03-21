@@ -2,4 +2,5 @@
   (lib (name "CD40109BE")(type "KiCad")(uri "${KIPRJMOD}/Parts/CD40109BE/CD40109BE.kicad_sym")(options "")(descr ""))
   (lib (name "IRLZ14PBF")(type "KiCad")(uri "${KIPRJMOD}/Parts/IRLZ14PBF/IRLZ14PBF.kicad_sym")(options "")(descr ""))
   (lib (name "QuadRJ45")(type "KiCad")(uri "${KIPRJMOD}/Parts/A00-432-262-450/A00-432-262-450.kicad_sym")(options "")(descr ""))
+  (lib (name "TerminalConn")(type "KiCad")(uri "${KIPRJMOD}/Parts/1862042/1862042.kicad_sym")(options "")(descr ""))
 )
